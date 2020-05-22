@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CommandWords
+comment0.text=\r\n\ Cette\ classe\ est\ une\ partie\ du\ jeu\ "Le\ m\u00E9tro\ abandonn\u00E9".\ \r\n\ "Le\ m\u00E9tro\ abandonn\u00E9"\ est\ tr\u00E8s\ facile,\ c'est\ un\ jeu\ bas\u00E9\ sur\ des\ commandes.\ \ \r\n\ \r\n\ cette\ classe\ repr\u00E9sente\ toutes\ les\ commandes\ qui\ sont\ disponibles.\r\n\ C'est\ utile\ pour\ reconnaitre\ lesquelles\ sont\ bonnes.\r\n\r\n\ @author\ \ Maxime\ BOUET\r\n\ @version\ 03.02.2020\r\n
+comment1.params=
+comment1.target=CommandWords()
+comment1.text=\r\n\ Le\ constructeur\ Initialise\ les\ mots\ qui\ sont\ valides\ pour\ une\ commande..\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCommandList()
+comment2.text=\r\n\ Affiche\ toutes\ les\ commandes\ valides\ sur\ System.out\r\n
+comment3.params=pString
+comment3.target=boolean\ isCommand(java.lang.String)
+comment3.text=\r\n\ V\u00E9rifie\ que\ le\ premier\ mot\ est\ une\ vrai\ commande.\ \r\n\ @return\ vrai\ si\ le\ mot\ est\ une\ commande\ valid\u00E9e,\r\n\ sinon\ faux.\r\n
+numComments=4

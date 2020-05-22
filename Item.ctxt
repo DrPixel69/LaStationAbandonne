@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Cette\ classe\ est\ une\ partie\ du\ jeu\ "Le\ m\u00E9tro\ abandonn\u00E9".\ \r\n\ "Le\ m\u00E9tro\ abandonn\u00E9"\ est\ tr\u00E8s\ facile,\ c'est\ un\ jeu\ bas\u00E9\ sur\ des\ commandes.\ \ \ \r\n\ \r\n\ Cette\ classe\ permet\ de\ traiter\ les\ items\ du\ joueur.\r\n\ \r\n\ @author\ \ Maxime\ BOUET\r\n\ @version\ 06.03.2020\r\n
+comment1.params=pNom\ pDescription\ pMasse
+comment1.target=Item(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Items\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDescription()
+comment2.text=\r\n\ Retourne\ la\ description\ de\ l'objet.\r\n\ @return\ la\ description\ de\ l'objet.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getNom()
+comment3.text=\r\n\ Retourne\ le\ nom\ de\ l'objet.\r\n\ @return\ le\ nom\ de\ l'objet\r\n
+comment4.params=
+comment4.target=int\ getMasse()
+comment4.text=\r\n\ Retourne\ la\ masse\ de\ l'objet.\r\n\ @return\ la\ masse\ de\ l'objet\r\n
+comment5.params=
+comment5.target=java.lang.String\ getItemDescription()
+comment5.text=\r\n\ retourne\ une\ description\ compl\u00E8te\ de\ ce\ qu'est\ l'objet.\r\n\ Sous\ la\ forme\ \:\r\n\ \ \ \ \ \ \ \ \ Vous\ avez\ "cet\ objet"\r\n\ \ \ \ \ \ \ \ \ Gr\u00E2ce\ \u00E0\ cet\ objet\ ...\r\n\ \ \ \ \ \ \ \ \ cela\ p\u00E8se\ environ\ ...\r\n\ @return\ une\ description\ compl\u00E8te\ de\ ce\ qu'est\ l'objet\r\n
+numComments=6

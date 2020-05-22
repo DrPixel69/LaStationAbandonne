@@ -1,0 +1,28 @@
+prendre beamer
+charger beamer
+vas monteNE
+prendre pioche
+feu beamer
+regarder pioche
+vas ouest
+regarder
+vas ouest
+inventaire
+prendre stylo
+vas ouest
+prendre cerealeChoco
+prendre cerealeFruit
+manger cerealeChoco
+arriere
+arriere
+arriere
+regarder
+manger cerealeFruit
+aide
+vas monte
+energie
+vas bas 
+vas bas
+vas est
+vas sud
+

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ Cette\ classe\ est\ une\ partie\ du\ jeu\ "Le\ m\u00E9tro\ abandonn\u00E9".\ \r\n\ "Le\ m\u00E9tro\ abandonn\u00E9"\ est\ tr\u00E8s\ facile,\ c'est\ un\ jeu\ bas\u00E9\ sur\ des\ commandes.\ \ \r\n\ \r\n\ Cette\ classe\ permet\ de\ lancer\ le\ jeu\ et\ de\ lui\ mettre\ fin\ si\ besoin.\r\n\ \r\n\ @author\ \ Maxime\ BOUET\r\n\ @version\ 03.02.2020\r\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ Permet\ de\ lancer\ le\ jeu.\ \r\n
+numComments=2

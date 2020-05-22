@@ -1,0 +1,60 @@
+prendre beamer
+charger beamer
+vas ouest
+vas ouest
+prendre stylo
+prendre feuille
+signer
+signer
+vas ouest
+prendre cereale
+prendre cereale2
+vas est
+vas est
+manger cereale
+vas sud
+vas monteNE
+prendre cereale
+manger cereale2
+prendre pioche
+aide
+vas descendSO
+regarder
+vas est
+vas ouest
+arriere
+vas ouest
+vas monte
+prendre cookie
+vas descendEst
+prendre bouteille
+prendre carte
+vas monte
+boire bouteille
+vas bas
+afficherCarte
+enleverCarte
+manger cookie
+prendre navigo
+vas bas
+prendre bouteille
+regarder bouteille
+boire bouteille
+vas est
+prendre chiot	
+arriere
+inventaire
+vas ouest
+vas ouest
+energie
+vas sud
+alea toit
+vas ouest
+vas sortir
+vas bas
+vas ouest
+vas ouest
+vas nord
+vas nord
+vas ouest
+

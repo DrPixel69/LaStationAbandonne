@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Beamer
+comment0.text=\r\n\ La\ classe\ Beamer\ permet\ de\ t\u00E9l\u00E9porter\ le\ joueur\ dans\ une\ salle\ qu'il\ a\ enregistr\u00E9\ pr\u00E9c\u00E9dament.\r\n\r\n\ @author\ (Maxime\ BOUET)\r\n\ @version\ (17/04/2020)\r\n
+comment1.params=pNom\ pDescription\ pMasse\ pGameEngine
+comment1.target=Beamer(java.lang.String,\ java.lang.String,\ int,\ GameEngine)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Beamer\r\n
+comment2.params=pPlayer
+comment2.target=java.lang.String\ charge(Player)
+comment2.text=\r\n\ Charge\ le\ beamer\ en\ sauvegardant\ d'endroit\ o\u00F9\ il\ est.\r\n
+comment3.params=pPlayer
+comment3.target=java.lang.String\ fire(Player)
+comment3.text=\r\n\ Cette\ m\u00E9thode\ utilise\ le\ beamer\ et\ le\ joueur\ est\ t\u00E9l\u00E9port\u00E9\ \u00E0\ la\ room\ qu'il\ a\ pr\u00E9c\u00E9dament\ enregistr\u00E9.\r\n
+numComments=4

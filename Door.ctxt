@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Door
+comment0.text=\r\n\ Door\ permet\ de\ creer\ des\ portes\ ferm\u00E9es\ et\ ouvrables\ avec\ une\ cl\u00E9.\r\n\ \r\n\r\n\ @author\ Maxime\ BOUET\r\n\ @version\ 17/04/2020\r\n
+comment1.params=pDescription\ pImage\ pCle
+comment1.target=Door(java.lang.String,\ java.lang.String,\ Item)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Door\r\n
+comment2.params=
+comment2.target=Item\ getCle()
+comment2.text=\r\n\ Retourne\ la\ cl\u00E9\ n\u00E9cessaire\ \u00E0\ l'ouverture\ de\ la\ porte.\r\n\ @return\ la\ cl\u00E9\ n\u00E9cessaire\ \u00E0\ l'ouverture\ de\ la\ porte.\r\n
+comment3.params=pCurrentRoom
+comment3.target=Room\ getNextRoom(Room)
+comment3.text=\r\n\ Retourne\ la\ prochaine\ Room.\r\n\ @return\ la\ prochaine\ Room.\r\n
+comment4.params=pDirection\ pRoom
+comment4.target=void\ setExits(java.lang.String,\ Room)
+comment4.text=\r\n\ Cette\ m\u00E9thode\ ajoute\ une\ sortie\ \u00E0\ la\ porte.\r\n
+numComments=5

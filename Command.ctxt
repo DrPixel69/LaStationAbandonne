@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Command
+comment0.text=\r\n\ Cette\ classe\ est\ une\ partie\ du\ jeu\ "Le\ m\u00E9tro\ abandonn\u00E9".\ \r\n\ "Le\ m\u00E9tro\ abandonn\u00E9"\ est\ tr\u00E8s\ facile,\ c'est\ un\ jeu\ bas\u00E9\ sur\ des\ commandes.\ \ \ \r\n\ \r\n\ Cette\ classe\ permet\ de\ traiter\ les\ commandes\ du\ joueur.\r\n\ \r\n\ @author\ \ Maxime\ BOUET\r\n\ @version\ 03.02.2020\r\n
+comment1.params=pCommandWord\ pSecondWord
+comment1.target=Command(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Initialise\ le\ premier\ est\ de\ second\ mot\ de\ la\ commande.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCommandWord()
+comment2.text=\r\n\ Permet\ de\ r\u00E9cup\u00E9rer\ le\ premier\ mot\ de\ la\ commande.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getSecondWord()
+comment3.text=\r\n\ Permet\ de\ r\u00E9cup\u00E9rer\ le\ second\ mot\ de\ la\ commande.\r\n
+comment4.params=
+comment4.target=boolean\ hasSecondWord()
+comment4.text=\r\n\ Cette\ fonction\ vaut\ vrai\ si\ la\ commande\ a\ un\ deuxieme\ mot.\r\n
+comment5.params=
+comment5.target=boolean\ isUnknown()
+comment5.text=\r\n\ V\u00E9rifie\ qu'une\ commande\ a\ \u00E9t\u00E9\ entr\u00E9e.\r\n
+numComments=6

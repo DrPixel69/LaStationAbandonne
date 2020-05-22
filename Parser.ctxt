@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Parser
+comment0.text=\r\n\ Cette\ classe\ est\ une\ partie\ du\ jeu\ "Le\ m\u00E9tro\ abandonn\u00E9".\ \r\n\ "Le\ m\u00E9tro\ abandonn\u00E9"\ est\ tr\u00E8s\ facile,\ c'est\ un\ jeu\ bas\u00E9\ sur\ des\ commandes.\ \ \r\n\ \r\n\ Ce\ Parser\ lit\ les\ commandes\ entr\u00E9es\ par\ le\ joueur\ et\ essaye\ de\ les\ interpreter\r\n\ .\ A\ chaque\ fois\ qu'il\ est\ appel\u00E9,\ il\ essaye\ de\ lire\ les\ deux\ mots\ de\ la\ commande.\ \r\n\ et\ un\ Objet\ de\ la\ classe\ est\ retourn\u00E9.\r\n\r\n\ @author\ \ Maxime\ BOUET\r\n\ @version\ 03.02.2020\r\n
+comment1.params=
+comment1.target=Parser()
+comment1.text=\r\n\ Constructeur\ par\ defaut\ qui\ cree\ les\ 2\ objets\ prevus\ pour\ les\ attributs\r\n
+comment2.params=
+comment2.target=java.lang.String\ showCommands()
+comment2.text=\r\n\ Affiche\ une\ liste\ des\ commandes\ valides\r\n
+comment3.params=pInputLine
+comment3.target=Command\ getCommand(java.lang.String)
+comment3.text=\r\n\ Retourne\ La\ prochaine\ commande\ du\ joueur.\r\n\ @return\ La\ prochaine\ commande\ du\ joueur.\r\n
+numComments=4

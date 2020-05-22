@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RoomRandomizer
+comment0.text=\r\n\ Cette\ classe\ permet\ de\ choisir\ une\ pi\u00E8ce\ al\u00E9atoirement.\r\n\ \r\n\ @author\ Maxime\ BOUET\r\n\ @version\ 22.04.2020\r\n
+comment1.params=pRooms
+comment1.target=RoomRandomizer(java.util.HashMap)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ RoomRandomizer.\r\n
+comment2.params=
+comment2.target=Room\ getRoom()
+comment2.text=\r\n\ Retourne\ une\ pi\u00E8ce\ al\u00E9atoire\ en\ ne\ prenant\ pas\ les\ pi\u00E8ces\ interdites.\r\n\ @return\ une\ pi\u00E8ce\ al\u00E9atoire\ en\ ne\ prenant\ pas\ les\ pi\u00E8ces\ interdites.\r\n
+numComments=3

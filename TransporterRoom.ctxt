@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TransporterRoom
+comment0.text=\r\n\ Cette\ classe\ permet\ de\ d\u00E9tecter\ quand\ il\ faut\ t\u00E9l\u00E9porter\ le\ joueur.\r\n\ \r\n\ @author\ Maxime\ BOUET\r\n\ @version\ 22.04.2020\r\n
+comment1.params=pDescription\ pImage\ pRoom
+comment1.target=TransporterRoom(java.lang.String,\ java.lang.String,\ RoomRandomizer)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ TransporterRoom\r\n
+comment2.params=pDirection
+comment2.target=Room\ getExit(java.lang.String)
+comment2.text=\r\n\ Retourne\ la\ sortie\ de\ la\ Pi\u00E8ce\ en\ fonction\ de\ la\ direction\ donn\u00E9e.\r\n\ Et\ si\ la\ sortie\ est\ "sortir",\ le\ joueur\ est\ t\u00E9l\u00E9porter\ al\u00E9atoirement.\r\n
+numComments=3
